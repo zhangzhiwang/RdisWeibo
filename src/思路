@@ -1,0 +1,8 @@
+说明：1、由于没有结合页面，所以本微博项目为纯后台代码的模拟
+	 2、由于本项目是测试代码，所以没有进行严格的参数校验
+
+1、redis的key设计：
+	表名:主键名:主键值:字段名 字段值
+	user:userid:1:username zhangsan
+	表名:查询条件的字段名:查询条件的字段值:主键名 主键值
+	user:username:zhangsan:userid 1
