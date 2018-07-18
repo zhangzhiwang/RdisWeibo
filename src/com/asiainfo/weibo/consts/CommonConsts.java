@@ -22,4 +22,6 @@ public class CommonConsts {
 	public static final String LOGIN_USER = "login_user";
 	public static final String OK = "OK";
 	public static final String NEW_USER_LIST = "new_user_list";
+	public static final String FOLLOWING = "following:";
+	public static final String FOLLOWERS = "followers:";
 }
