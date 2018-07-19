@@ -44,6 +44,6 @@ public class PostWeibo {
 	}
 	
 	public static void main(String[] args) {
-		postWeibo("test content");
+		postWeibo("test content3");
 	}
 }

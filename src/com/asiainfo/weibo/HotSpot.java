@@ -93,7 +93,7 @@ public class HotSpot {
 //		List<String> allRegisterdUser = getAllRegistUserExceptMe();
 //		System.out.println(allRegisterdUser);
 		
-//		follow("lisi", false);
+//		follow("lisi", true);
 		
 		System.out.println(isFollowedSomeone("1", "lisi"));
 	}
